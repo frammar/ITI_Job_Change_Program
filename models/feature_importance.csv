@@ -1,0 +1,56 @@
+,mean_abs_shap
+City development index,0.6024116
+Current company size,0.26920727
+No current employer info,0.2610852
+Years of experience,0.12705578
+Major discipline: Unknown,0.105603494
+Relevant experience,0.10491401
+Years since last job change,0.10097649
+City: city_21,0.099297665
+City: city_103,0.08076928
+Education level,0.075103395
+Number of missing fields,0.06379529
+Training hours,0.04872985
+Enrolled university: no_enrollment,0.041593358
+Enrolled university: Full time course,0.03039147
+Company type: Public Sector,0.028876577
+City: city_136,0.022732455
+Company type: Funded Startup,0.021344582
+Major discipline: STEM,0.021213569
+City: city_160,0.014002115
+Company type: Pvt Ltd,0.013211939
+City: infrequent_sklearn,0.013049689
+City: city_100,0.011936619
+Training hours (log),0.011583888
+City: city_16,0.011330619
+City: city_104,0.008683966
+Company type: Early Stage Startup,0.008550815
+Company type: NGO,0.0050179143
+Company type: Unknown,0.0047636656
+City: city_116,0.004419873
+City: city_11,0.0042093485
+Company type: infrequent_sklearn,0.00375913
+City: city_67,0.0037386478
+City: city_36,0.0036028742
+City: city_71,0.003321154
+Major discipline: Other,0.0031336572
+Major discipline: Humanities,0.0029391844
+City: city_138,0.0029018768
+City: city_50,0.002750989
+City: city_173,0.002411569
+City: city_65,0.0023978995
+City: city_61,0.002229444
+City: city_75,0.0021510434
+Major discipline: Business Degree,0.0020526198
+City: city_23,0.0019612208
+Major discipline: No Major,0.0019504334
+City: city_162,0.0019279065
+City: city_102,0.001887106
+Enrolled university: Part time course,0.0017050628
+City: city_114,0.0014975518
+City: city_90,0.00085762795
+City: city_73,0.000727997
+City: city_28,0.00069076475
+Major discipline: Arts,0.00063718844
+Enrolled university: Unknown,0.00061004394
+City: city_83,0.0003532529
